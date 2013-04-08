@@ -11,6 +11,7 @@ require "test/unit"
 #######################################################
 
 def say_hello
+  put "hi!"
 end
 
 def shout(input)
